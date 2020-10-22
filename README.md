@@ -1,4 +1,4 @@
-# Mobile-App-EDA
+# Mobile-App Exploratory Data Analysis (EDA)
 Analyze the 'ping' data of a mobile app, key findings, and the impact
 
 ## Key findings include
